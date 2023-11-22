@@ -14,7 +14,8 @@
 
 ### Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medsakly1997)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medsakly1997&show_icons=true&theme=dark)](#)
+
 
 
 ### Find me on:
