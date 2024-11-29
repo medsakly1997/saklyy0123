@@ -14,8 +14,7 @@
 
 ### Stats:
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=medsakly1997&show_icons=true&theme=dark)](#)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medsakly1997&theme=radical)
 
 
 ### Find me on:
